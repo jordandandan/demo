@@ -1,4 +1,4 @@
-package Leet2018;
+package Leet2018.string;
 
 import java.util.Arrays;
 

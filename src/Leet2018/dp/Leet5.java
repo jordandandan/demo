@@ -1,10 +1,10 @@
-package Leet2018;
+package Leet2018.dp;
 
 /**
  * @author bjxujiayi
  * @create 2018-10-09 12:09
  **/
-public class Leet4 {
+public class Leet5 {
     public String longestPalindrome(String s) {
         int len = s.length();
         boolean[][] dp = new boolean[len][len];

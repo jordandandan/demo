@@ -1,4 +1,4 @@
-package Leet2018;
+package Leet2018.stack;
 
 import java.util.HashMap;
 import java.util.Map;
