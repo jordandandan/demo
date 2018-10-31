@@ -1,4 +1,4 @@
-package Leet2018.binarysearch;
+package Leet2018.search.binarysearch;
 
 /**
  * @author bjxujiayi
