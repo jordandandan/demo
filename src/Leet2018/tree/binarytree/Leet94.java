@@ -1,4 +1,4 @@
-package Leet2018.tree;
+package Leet2018.tree.binarytree;
 
 import java.util.ArrayList;
 import java.util.List;
